@@ -1,5 +1,33 @@
 # Event_Management_System
 
+IMPLEMENTATION DETAILS
+ADMIN:
+•	Admin first has to login with the username and password. After login, he gets the dashboard.
+
+•	Admin can view all the events that are registered by different users.
+
+•	Admin has to assign his employees to the events hence after viewing the events admin redirects to the assign event page in which the assigns the employees to different position like event manager, catering head etc and assigns the estimated cost which the user has to pay for the event.
+
+•	Admin also has the access to fill the details of his employee using the create employee page and also view the details of employee.
+
+•	Admin can edit, delete the employee or event details anytime he wants.
+
+•	Admin can also view the feedback given by different users.
+
+USER:
+•	Users first go to the website and check out the services offered.
+
+•	If the user already has an account then he directly logins using the username and password and registers for his desired event.
+
+•	If the user doesn’t have any account then he registers himself and creates an account. There is a register form and user has to fill his details and create an account with an username which can be used anytime to register for n number of events.
+
+•	User registers for the event with the event registration form after he the login which redirects him to the dashboard.
+
+•	Registration of event is done by filling in the details of the form for the preferred choices of user. 
+
+•	Users can give their valuable feedback about the service given to them
+
+
 ## Home Page:
 
 ![image](https://user-images.githubusercontent.com/67771916/91938072-eb3b1980-ed10-11ea-9684-e2ec30f01e6f.png)
