@@ -1,7 +1,9 @@
 # Event_Management_System
 
 IMPLEMENTATION DETAILS
+
 ADMIN:
+
 •	Admin first has to login with the username and password. After login, he gets the dashboard.
 
 •	Admin can view all the events that are registered by different users.
@@ -29,9 +31,7 @@ USER:
 
 
 ## Home Page:
-
-![image](https://user-images.githubusercontent.com/67771916/91938072-eb3b1980-ed10-11ea-9684-e2ec30f01e6f.png)
-
+![image](https://user-images.githubusercontent.com/67771916/92496061-49866180-f215-11ea-811b-6abe57630c0a.png)
 
 
 ## About:
